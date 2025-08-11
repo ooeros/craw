@@ -1,0 +1,21 @@
+{
+  "name": "ebook-viewer",
+  "version": "0.1.0",
+  "private": true,
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "test": "echo \"No tests\""
+  },
+  "dependencies": {
+    "expo": "^50.0.0",
+    "expo-document-picker": "^13.0.0",
+    "react": "18.2.0",
+    "react-native": "0.73.0",
+    "react-native-pdf": "^6.7.0",
+    "react-native-webview": "^13.2.2",
+    "epubjs-rn": "^1.2.0"
+  }
+}
