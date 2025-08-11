@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "EbookViewer",
+    "slug": "ebook-viewer",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
